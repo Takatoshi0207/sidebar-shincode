@@ -1,9 +1,11 @@
 import React from 'react';
 import { SidebarData } from '../Component/SidebarData'
+import SidebarIcon from './SidebarIcon';
 
 function Sidebar() {
   return (
-    <div className='Sidebar'>
+    <div className='Sidebar' >
+      <SidebarIcon />
       <ul className='SidebarList'>
         {SidebarData.map((value, key) => {
           return (

@@ -11,32 +11,32 @@ export const SidebarData = [
   {
     title: "ホーム",
     icon: <HomeIcon />,
-    liink: "/",
+    link: "/",
   },
   {
     title: "メール",
     icon: <MarkEmailReadIcon />,
-    liink: "/mail",
+    link: "/mail",
   },
   {
     title: "アナリティクス",
     icon: <AutoGraphIcon />,
-    liink: "/access",
+    link: "/access",
   },
   {
     title: "友達追加",
     icon: <PersonAddIcon />,
-    liink: "/addfriends",
+    link: "/addfriends",
   },
   {
     title: "お支払い設定",
     icon: <CurrencyYenIcon />,
-    liink: "/payment",
+    link: "/payment",
   },
   {
     title: "アップロード",
     icon: <BackupIcon />,
-    liink: "/upload",
+    link: "/upload",
   },
   {
     title: "詳細設定",
