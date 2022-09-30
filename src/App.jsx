@@ -3,7 +3,7 @@ import Sidebar from './Component/Sidebar'
 
 function App() {
   return (
-    <div>
+    <div className='App'>
       <Sidebar />
     </div>
   )
